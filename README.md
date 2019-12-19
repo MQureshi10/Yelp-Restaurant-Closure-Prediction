@@ -3,13 +3,16 @@ Yelp Data Project
 
 
 Introduction
+
 U.S. restaurant industry sales will reach a record high of $863 billion this year, up 3.6% over last year, across more than 1 million businesses. The industry is continuously growing year after year, and Yelp is one of the biggest platforms of fueling the industry’s growth. 
 Yelp was founded in 2004 and their main focus is to help connect people with great local businesses. Yelp is an online directory for discovering local businesses ranging from bars, restaurants, gas stations, and all the way to spas or hairdressers. The listings can be filtered by business type, location, price range, and many more. My focus for the project is restaurant oriented data from Yelp. 
 
 Business Objective
+
 Due to limited information on restaurant sustainability, my objective is to build a machine learning model that will predict restaurant success and closure. This will provide lenders or investors with crucial information which would help them make important business decisions when deciding to invest or lend to different restaurants. In order to achieve this, I needed to locate a dataset that would help us identify different factors that would help display accurate data which would then help these investors make valuable business decisions regarding investing or lending. Since Yelp is one of the largest platforms for the restaurant business, I knew I could rely on them for sufficient data to achieve my goal. 
 
 Dataset Information
+
 The dataset used was one found on Kaggle provided by Yelp. 
 ●	The dataset is a subset of Yelp’s businesses, reviews, and user data 
 ●	The dataset contains 5,200,000 user reviews, information on 174,000 businesses, and spans 11 metropolitan areas in 4 countries  
